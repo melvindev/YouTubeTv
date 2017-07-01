@@ -1,0 +1,9 @@
+C:\Microsoft C# 2013 Projects\C# 2013 For Web\YouTubeTv\YouTubeTv\bin\Debug\YouTubeTv.dll
+C:\Microsoft C# 2013 Projects\C# 2013 For Web\YouTubeTv\YouTubeTv\bin\Debug\YouTubeTv.pdb
+C:\Microsoft C# 2013 Projects\C# 2013 For Web\YouTubeTv\YouTubeTv\obj\Debug\YouTubeTv.dll
+C:\Microsoft C# 2013 Projects\C# 2013 For Web\YouTubeTv\YouTubeTv\obj\Debug\YouTubeTv.pdb
+C:\Microsoft C# 2013 Projects\C# 2013 For Web\YouTubeTv\YouTubeTv\obj\Debug\YouTubeTv.csprojResolveAssemblyReference.cache
+C:\Users\melvi\Documents\Visual Studio 2017\Projects\GitHub OpenSource\YouTuveTv\YouTubeTv\YouTubeTv\YouTubeTv\bin\Debug\YouTubeTv.dll
+C:\Users\melvi\Documents\Visual Studio 2017\Projects\GitHub OpenSource\YouTuveTv\YouTubeTv\YouTubeTv\YouTubeTv\bin\Debug\YouTubeTv.pdb
+C:\Users\melvi\Documents\Visual Studio 2017\Projects\GitHub OpenSource\YouTuveTv\YouTubeTv\YouTubeTv\YouTubeTv\obj\Debug\YouTubeTv.dll
+C:\Users\melvi\Documents\Visual Studio 2017\Projects\GitHub OpenSource\YouTuveTv\YouTubeTv\YouTubeTv\YouTubeTv\obj\Debug\YouTubeTv.pdb
